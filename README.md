@@ -1,5 +1,6 @@
 # LeetCodeExamples
-This repository includes my solution combinations for algorithm problems and this is for keeping track of my submissions.
+This repository includes my solution combinations for algorithm problems.
+This is just for keeping my submissions.
 
 During solutions there are some sources I benefitted from:
 
